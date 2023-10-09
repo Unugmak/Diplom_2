@@ -11,7 +11,7 @@ import users.UserStep;
 
 import static org.hamcrest.Matchers.equalTo;
 
-public class ReceivingUserOrders {
+public class ReceivUserOrders {
     UserData user;
     OrderData order;
     private String token;
